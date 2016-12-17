@@ -6,11 +6,11 @@ date:       2016-11-29 14:00:00
 author:     "Fengzhao"
 header-img: "img/post-bg-2015.jpg"
 tags:
-    - HTTP  
+     
     -TCP/IP
 ---
 
-#Web概述 #
+# Web概述 #
 W3C的[官方文档](http://www.w3.org/WWW/)的第一句话是这样的："The World Wide Web(known as"WWW","Web"or"W3")is the universe of network-accessible information,the embodiment of human konwledge".如果将这句话翻译成中文，就是"Web是网络信息的来源，知识的化身"。Web为我们提供了一种获取和操作网络资源的方式，这些资源不仅仅包含像文字和图片这些传统的信息载体，还包含音频和视频这些多媒体信息。Web的核心主要体现在三个方面，即HTTP、超文本和超媒体。超文本和超媒体规范了网络信息的表现形式，他们利用“链接”在相关资源节点之间连接形成一张非线性的网(Web)，HTTP提供了网络访问的标准协议。
 
 ## 1、HTTP报文 ##
